@@ -1,6 +1,11 @@
 body {
-    background: lightskyblue;
+    background: lightgrey;
 }
 h1 {
-    font-family: Arial;
+    font-family: Arial Narrow;
+    text-align: center;
+}
+h2 {
+    font-family: Arial Narrow;
+    text-align: center;
 }

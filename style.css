@@ -5,7 +5,15 @@ h1 {
     font-family: Arial Narrow;
     text-align: center;
 }
+a {
+    font-family: Arial Narrow;
+    display: block;
+    text-align: center;
+}
 h2 {
     font-family: Arial Narrow;
     text-align: center;
+}
+ul {
+    font-family: Arial Narrow;
 }
